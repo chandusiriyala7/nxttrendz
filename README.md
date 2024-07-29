@@ -1,6 +1,11 @@
 <<<<<<< HEAD
 # nxttrendz
 An E-commerce store Which has all the features of an original E-Commerce Application!
+
+###Live Link :- nxxttrendz.ccbp.tech
+
+username :- rahul
+password:rahul@2021
 =======
 In this project, let's build a **Nxt Trendz - Specific Product Details** app by applying the concepts we have learned till now.
 
