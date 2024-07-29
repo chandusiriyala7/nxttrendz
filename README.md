@@ -7,7 +7,7 @@ An E-commerce store Which has all the features of an original E-Commerce Applica
 ====
 ## username :- rahul
 <br />
-### password:rahul@2021
+## password:rahul@2021
 
 =======
 In this project, let's build a **Nxt Trendz - Specific Product Details** app by applying the concepts we have learned till now.
